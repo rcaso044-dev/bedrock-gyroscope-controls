@@ -1,0 +1,24 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Gyroscope Experiment Pack",
+    "description": "Experimental minimal pack for gyroscope-style motion input research",
+    "uuid": "44d8bd4d-c1e8-43cc-8f38-3564ef0d0f3e",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 20, 0]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "5d2990d8-45b5-4db4-a7a4-82e54a8671ff",
+      "version": [1, 0, 0]
+    },
+    {
+      "type": "script",
+      "language": "javascript",
+      "entry": "scripts/main.js",
+      "uuid": "c7cbec9e-16d0-48d8-9417-f1ed4aa02a12",
+      "version": [1, 0, 0]
+    }
+  ]
+}
